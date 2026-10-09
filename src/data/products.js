@@ -1,0 +1,48 @@
+const products = [
+{
+id: 1,
+name: "Classic Beef Burger",
+category: "Beef Burger",
+price: 99,
+quantity: 20,
+image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600",
+description: "Juicy beef patty with fresh lettuce, tomato, and cheese.",
+specification: "Beef patty, lettuce, tomato, cheese, and burger bun",
+rating: 4.8,
+},
+{
+id: 2,
+name: "Cheese Burger",
+category: "Cheese Burger",
+price: 119,
+quantity: 15,
+image: "https://images.unsplash.com/photo-1553979459-d2229ba7433a?w=600",
+description: "A delicious burger topped with melted cheese.",
+specification: "Beef patty, cheddar cheese, lettuce, and burger bun",
+rating: 4.7,
+},
+{
+id: 3,
+name: "Double Beef Burger",
+category: "Beef Burger",
+price: 159,
+quantity: 10,
+image: "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=600",
+description: "Double beef patties for a bigger and tastier meal.",
+specification: "Two beef patties, cheese, lettuce, and burger bun",
+rating: 4.9,
+},
+{
+id: 4,
+name: "Chicken Burger",
+category: "Chicken Burger",
+price: 109,
+quantity: 18,
+image: "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=600",
+description: "Crispy chicken burger with fresh vegetables.",
+specification: "Chicken fillet, lettuce, sauce, and burger bun",
+rating: 4.6,
+},
+];
+
+export default products;
